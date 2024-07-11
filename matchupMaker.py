@@ -1,7 +1,7 @@
 import random
 
 # Read teams from a text file
-with open('cTeams.txt', 'r') as file:
+with open('aTeams.txt', 'r') as file:
     teams = [line.strip() for line in file.readlines()]
 
 # Ensure each team plays 8 games with unique opponents
@@ -35,6 +35,6 @@ for matchup in all_possible_matchups:
         break
 
 # Save the matchups to a text file
-with open('c_matchups.txt', 'w') as file:
+with open('a_matchups.txt', 'w') as file:
     for matchup in selected_matchups:
         file.write(f"{matchup[0]} vs {matchup[1]}\n")

@@ -9,7 +9,10 @@ def get_week_start_end(date):
     return start_of_week.strftime('%m/%d/%Y'), end_of_week.strftime('%m/%d/%Y')
 
 # Function to check for conflicts in the schedule
-def check_conflicts(schedule_df):
+def check_conflicts(schedule_path):
+    # Read the schedule CSV
+    schedule_df = pd.read_csv(schedule_path)
+    
     # Dictionary to store bookings
     booking_dict = defaultdict(list)
     team_daily_play = defaultdict(lambda: defaultdict(int))
@@ -56,10 +59,34 @@ def check_conflicts(schedule_df):
     # Find weekend play conflicts
     weekend_conflicts = {team: dates for team, dates in team_weekend_play.items() if dates}
 
-    return slot_conflicts, daily_conflicts, weekly_conflicts, weekend_conflicts
+    # Output conflicts
+    if slot_conflicts or daily_conflicts or weekly_conflicts or weekend_conflicts:
+        if slot_conflicts:
+            print("Slot conflicts found:")
+            for slot, titles in slot_conflicts.items():
+                print(f"Date: {slot[0]}, Court: {slot[1]}, Time: {slot[2]}")
+                for title in titles:
+                    print(f"  - {title}")
+        if daily_conflicts:
+            print("\nDaily conflicts found (teams playing more than once a day):")
+            for team, dates in daily_conflicts.items():
+                for date, count in dates.items():
+                    if count > 1:
+                        print(f"Team: {team} Date: {date.strftime('%m/%d/%Y')} Count: {count}")
+        if weekly_conflicts:
+            print("\nWeekly conflicts found (teams playing more than twice a week):")
+            for team, weeks in weekly_conflicts.items():
+                for week in weeks:
+                    print(f"Team: {team} Week: {week[0]} to {week[1]}")
+        if weekend_conflicts:
+            print("\nWeekend conflicts found (teams playing on weekends):")
+            for team, dates in weekend_conflicts.items():
+                for date in dates:
+                    print(f"Team: {team} Date: {date.strftime('%m/%d/%Y')}")
+    else:
+        print("No conflicts found.")
 
-# Function to save conflicts to a CSV file
-def save_conflicts(slot_conflicts, daily_conflicts, weekly_conflicts, weekend_conflicts, output_path='conflicts.csv'):
+    # Save conflicts to a CSV file
     slot_conflicts_df = pd.DataFrame([
         {'Type': 'Slot', 'Date': slot[0], 'Court': slot[1], 'Time': slot[2], 'Details': ", ".join(titles)}
         for slot, titles in slot_conflicts.items()
@@ -81,5 +108,9 @@ def save_conflicts(slot_conflicts, daily_conflicts, weekly_conflicts, weekend_co
     ])
 
     conflicts_df = pd.concat([slot_conflicts_df, daily_conflicts_df, weekly_conflicts_df, weekend_conflicts_df], ignore_index=True)
-    conflicts_df.to_csv(output_path, index=False)
-    print(f"Conflicts saved to '{output_path}'")
+    conflicts_df.to_csv('conflicts.csv', index=False)
+    print("Conflicts saved to 'conflicts.csv'")
+
+# Check for conflicts in 'schedule.csv'
+schedule_path = 'schedule.csv'
+check_conflicts(schedule_path)
