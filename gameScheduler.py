@@ -8,7 +8,7 @@ from conflictChecker import check_conflicts, save_conflicts
 matchup_files = [
     'a_matchups.txt',
     'b_matchups.txt',
-    'c_matchups.txt'
+    'c_matchups.txt',
 ]
 
 # Available courts and times

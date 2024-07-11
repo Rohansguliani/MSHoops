@@ -4,8 +4,17 @@ from collections import defaultdict
 # Function to analyze the schedule
 def analyze_schedule(schedule_path):
     # Read the schedule CSV
-    schedule_df = pd.read_csv(schedule_path)
-    
+    try:
+        schedule_df = pd.read_csv(schedule_path)
+        print(f"Successfully read the schedule from {schedule_path}")
+    except Exception as e:
+        print(f"Failed to read the schedule: {e}")
+        return
+
+    # Check the first few rows of the DataFrame
+    print("First few rows of the schedule:")
+    print(schedule_df.head())
+
     # Initialize a dictionary to store the results
     team_schedule = defaultdict(lambda: {'count': 0, 'dates': []})
     
@@ -47,4 +56,8 @@ def analyze_schedule(schedule_path):
 # Analyze the schedule and save the results
 schedule_path = 'schedule.csv'
 results_df = analyze_schedule(schedule_path)
-results_df.to_csv('team_schedule_analysis.csv', index=False)
+if results_df is not None:
+    results_df.to_csv('team_schedule_analysis.csv', index=False)
+    print("Analysis saved to 'team_schedule_analysis.csv'")
+else:
+    print("Analysis could not be completed.")

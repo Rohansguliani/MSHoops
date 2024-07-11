@@ -1,59 +1,60 @@
-Dolphins vs Highly Privileged
-NorthWest Umbrerllas vs Three Pointless
-Ballmer's C-team vs High Performance Cabrones
-NorthWest Umbrerllas vs Not Elixer
-Microballers vs Three Pointless
-Multi-Factor Threat vs Puerto Ricans @ MSFT
-Clippies vs Not Elixer
-Ballmer's C-team vs NorthWest Umbrerllas
+Highly Privileged vs Edgehogs
+Dolphins vs Puerto Ricans @ MSFT
 Ballmer's C-team vs Clippies
-ARM Flex vs Highly Privileged
-Edgehogs vs Json Tatum Deuce Daddy
-Json Tatum Deuce Daddy vs Puerto Ricans @ MSFT
-High Performance Cabrones vs The Dream Team
-Json Tatum Deuce Daddy vs Not Elixer
-Clippies vs Three Pointless
-Ballmer's C-team vs Microballers
-Ballmer's C-team vs Multi-Factor Threat
-Puerto Ricans @ MSFT vs Three Pointless
-Dolphins vs High Performance Cabrones
-High Performance Cabrones vs Puerto Ricans @ MSFT
-Dolphins vs Three Pointless
-High Performance Cabrones vs Highly Privileged
-Edgehogs vs Not Elixer
-Multi-Factor Threat vs NorthWest Umbrerllas
-High Performance Cabrones vs Three Pointless
-Json Tatum Deuce Daddy vs The Dream Team
-Dolphins vs The Dream Team
-Dolphins vs Json Tatum Deuce Daddy
+Puerto Ricans @ MSFT vs High Performance Cabrones
 Not Elixer vs Puerto Ricans @ MSFT
-Json Tatum Deuce Daddy vs Multi-Factor Threat
-High Performance Cabrones vs NorthWest Umbrerllas
-Highly Privileged vs The Dream Team
+Highly Privileged vs Three Pointless
+High Performance Cabrones vs Dolphins
+NorthWest Umbrerllas vs High Performance Cabrones
+Not Elixer vs Json Tatum Deuce Daddy
 Edgehogs vs The Dream Team
-Microballers vs Multi-Factor Threat
-ARM Flex vs Ballmer's C-team
-Clippies vs The Dream Team
-Puerto Ricans @ MSFT vs The Dream Team
-Ballmer's C-team vs The Dream Team
-ARM Flex vs Multi-Factor Threat
-Edgehogs vs High Performance Cabrones
-Edgehogs vs Puerto Ricans @ MSFT
-Multi-Factor Threat vs Three Pointless
-Clippies vs Json Tatum Deuce Daddy
-Edgehogs vs Highly Privileged
-ARM Flex vs Json Tatum Deuce Daddy
-Highly Privileged vs Puerto Ricans @ MSFT
-Ballmer's C-team vs Three Pointless
-ARM Flex vs Not Elixer
-Dolphins vs NorthWest Umbrerllas
-Clippies vs Highly Privileged
-Clippies vs Edgehogs
+The Dream Team vs Json Tatum Deuce Daddy
+Three Pointless vs Clippies
+Highly Privileged vs Not Elixer
+Microballers vs Puerto Ricans @ MSFT
+The Dream Team vs High Performance Cabrones
+Three Pointless vs Ballmer's C-team
+Puerto Ricans @ MSFT vs Three Pointless
+High Performance Cabrones vs Edgehogs
+Microballers vs The Dream Team
+NorthWest Umbrerllas vs Microballers
 Edgehogs vs Microballers
-Dolphins vs Not Elixer
+Multi-Factor Threat vs Highly Privileged
+Puerto Ricans @ MSFT vs Json Tatum Deuce Daddy
+Clippies vs Multi-Factor Threat
+Ballmer's C-team vs ARM Flex
+Highly Privileged vs ARM Flex
+Highly Privileged vs The Dream Team
+Ballmer's C-team vs Microballers
+Ballmer's C-team vs Highly Privileged
+NorthWest Umbrerllas vs ARM Flex
+Not Elixer vs High Performance Cabrones
+Multi-Factor Threat vs Ballmer's C-team
+Ballmer's C-team vs NorthWest Umbrerllas
+High Performance Cabrones vs ARM Flex
+Not Elixer vs Edgehogs
+Json Tatum Deuce Daddy vs Edgehogs
+Three Pointless vs Multi-Factor Threat
+The Dream Team vs ARM Flex
+The Dream Team vs NorthWest Umbrerllas
+NorthWest Umbrerllas vs Three Pointless
+Puerto Ricans @ MSFT vs Ballmer's C-team
+Multi-Factor Threat vs Puerto Ricans @ MSFT
+Edgehogs vs Three Pointless
+Microballers vs Json Tatum Deuce Daddy
+Three Pointless vs Json Tatum Deuce Daddy
+Not Elixer vs NorthWest Umbrerllas
+Multi-Factor Threat vs Edgehogs
+ARM Flex vs Clippies
+NorthWest Umbrerllas vs Dolphins
+Dolphins vs Highly Privileged
+Clippies vs High Performance Cabrones
+ARM Flex vs Not Elixer
+The Dream Team vs Clippies
+Multi-Factor Threat vs Microballers
+Multi-Factor Threat vs Dolphins
+Not Elixer vs Dolphins
 ARM Flex vs Microballers
-Highly Privileged vs NorthWest Umbrerllas
-ARM Flex vs Dolphins
-Multi-Factor Threat vs Not Elixer
-ARM Flex vs NorthWest Umbrerllas
-Clippies vs Microballers
+Dolphins vs Json Tatum Deuce Daddy
+Json Tatum Deuce Daddy vs Clippies
+Dolphins vs Clippies

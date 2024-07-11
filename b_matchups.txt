@@ -1,53 +1,56 @@
-EthicallySourcedBuckets vs Victorius
-EthicallySourcedBuckets vs Paul Allen's Ballers
-Layup Legends B vs Victorius
-Fixers vs Geneva Hoops
-Jump vs Paul Allen's Ballers
-Like Clockwork vs Paul Allen's Ballers
-GPT-8 vs Paul Allen's Ballers
-DefenseWonChampionship vs Scrubs
-Jump vs Scrubs
-DefenseWonChampionship vs Jump
-Layup Legends B vs Like Clockwork
-DefenseWonChampionship vs EthicallySourcedBuckets
-Geneva Hoops vs Paul Allen's Ballers
-Clippy - The Way We Got Shooters Everywhere vs Layup Legends B
-DefenseWonChampionship vs Victorius
-GPT-8 vs Scrubs
-DefenseWonChampionship vs Geneva Hoops
-Clippy - The Way We Got Shooters Everywhere vs EthicallySourcedBuckets
-Jump vs Paewox
-Clippy - The Way We Got Shooters Everywhere vs Like Clockwork
-Jump vs Victorius
-Clippy - The Way We Got Shooters Everywhere vs Victorius
-Fixers vs GPT-8
-Clippy - The Way We Got Shooters Everywhere vs Fixers
-Jump vs Layup Legends B
-DefenseWonChampionship vs Paewox
-Air-Gapped 1's vs Fixers
-Air-Gapped 1's vs Like Clockwork
-Geneva Hoops vs Victorius
-Air-Gapped 1's vs Scrubs
+Layup Legends B vs Air-Gapped 1's
+EthicallySourcedBuckets vs Air-Gapped 1's
 Fixers vs Like Clockwork
-Fixers vs Layup Legends B
-Layup Legends B vs Paul Allen's Ballers
-EthicallySourcedBuckets vs Jump
-EthicallySourcedBuckets vs Layup Legends B
-GPT-8 vs Jump
-DefenseWonChampionship vs Fixers
+Geneva Hoops vs Fixers
+Jump vs Victorius
+Paewox vs Jump
+EthicallySourcedBuckets vs Like Clockwork
+Jump vs Air-Gapped 1's
+Clippy - The Way We Got Shooters Everywhere vs Like Clockwork
+Scrubs vs Victorius
+Victorius vs GPT-8
 GPT-8 vs Like Clockwork
-EthicallySourcedBuckets vs Scrubs
-Fixers vs Victorius
-Like Clockwork vs Victorius
-Clippy - The Way We Got Shooters Everywhere vs Scrubs
-Paul Allen's Ballers vs Scrubs
-Paewox vs Scrubs
+DefenseWonChampionship vs Layup Legends B
+Fixers vs Paewox
+EthicallySourcedBuckets vs Jump
+Clippy - The Way We Got Shooters Everywhere vs Fixers
+DefenseWonChampionship vs Scrubs
+Victorius vs Geneva Hoops
+Layup Legends B vs EthicallySourcedBuckets
 Geneva Hoops vs Layup Legends B
+Clippy - The Way We Got Shooters Everywhere vs EthicallySourcedBuckets
+Fixers vs Scrubs
+Fixers vs Victorius
+GPT-8 vs Paul Allen's Ballers
+Layup Legends B vs GPT-8
+Fixers vs Air-Gapped 1's
+Layup Legends B vs Jump
+GPT-8 vs DefenseWonChampionship
+Victorius vs Paul Allen's Ballers
+Fixers vs DefenseWonChampionship
+DefenseWonChampionship vs Paul Allen's Ballers
+Like Clockwork vs Jump
+Paewox vs Geneva Hoops
+Air-Gapped 1's vs GPT-8
+Paewox vs Layup Legends B
+EthicallySourcedBuckets vs DefenseWonChampionship
+Paul Allen's Ballers vs Jump
 EthicallySourcedBuckets vs Geneva Hoops
-GPT-8 vs Paewox
-Air-Gapped 1's vs DefenseWonChampionship
-Clippy - The Way We Got Shooters Everywhere vs Paul Allen's Ballers
-Clippy - The Way We Got Shooters Everywhere vs GPT-8
+Victorius vs DefenseWonChampionship
+Paewox vs Paul Allen's Ballers
 GPT-8 vs Geneva Hoops
-Geneva Hoops vs Like Clockwork
-Air-Gapped 1's vs Paewox
+Paul Allen's Ballers vs Geneva Hoops
+Victorius vs Like Clockwork
+Air-Gapped 1's vs Clippy - The Way We Got Shooters Everywhere
+Jump vs Scrubs
+Paewox vs Scrubs
+Air-Gapped 1's vs Like Clockwork
+Clippy - The Way We Got Shooters Everywhere vs Geneva Hoops
+Paewox vs Clippy - The Way We Got Shooters Everywhere
+Scrubs vs Air-Gapped 1's
+Scrubs vs Like Clockwork
+EthicallySourcedBuckets vs GPT-8
+Paul Allen's Ballers vs Layup Legends B
+DefenseWonChampionship vs Paewox
+Clippy - The Way We Got Shooters Everywhere vs Scrubs
+Clippy - The Way We Got Shooters Everywhere vs Paul Allen's Ballers
